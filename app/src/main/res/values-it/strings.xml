@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Slick UPnP</string>
+    <string name="action_refresh">Aggiorna</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="info_searching">Ricaricamento...</string>
+    <string name="info_errorlist_folders">Errore durante l\'ascolto delle cartelle</string>
+    <string name="info_still_loading">Il dispositivo è ancora in caricamento, attendi e riprova</string>
+    <string name="info_could_not_start_activity">Impossibile avviare l\'attività (motivo sconosciuto, contatta lo sviluppatore)</string>
+    <string name="info_no_handler">Nessuna applicazione disponibile per gestire questo tipo di contenuto</string>
+    <string name="info_folder">Cartella</string>
+    <string name="info_file">File</string>
+    <string name="info_items">elementi</string>
+    <string name="info_no_wifi">Attiva la connessione wireless</string>
+    <string name="settings_title_devices">Dispositivi</string>
+    <string name="settings_validate_devices">Valida dispositivi</string>
+    <string name="settings_validate_devices_description">Esegui una validazione aggiuntiva prima di mostrare un dispositivo (più lento)</string>
+    <string name="settings_title_icons">Icone</string>
+    <string name="settings_show_icons">Mostra icone</string>
+    <string name="settings_show_icons_description">Mostra le icone per cartelle e elementi</string>
+    <string name="settings_hide_file_icons">Nascondi icone per file</string>
+    <string name="settings_hide_file_icons_description">Nascondi le icone per le voci di file</string>
+    <string name="settings_show_device_icons">Mostra icone dispositivo</string>
+    <string name="settings_show_device_icons_description">Scarica e mostra le icone dei dispositivi</string>
+    <string name="settings_title_files">File</string>
+    <string name="settings_show_extensions">Mostra estensioni file</string>
+    <string name="settings_show_extensions_description">Aggiungi le estensioni ai nomi dei file</string>
+    <string name="settings_about_title">Informazioni</string>
+    <string name="settings_about_version">Versione</string>
+    <string name="settings_about_developer">Sviluppatore</string>
+    <string name="settings_about_developer_name">Casper Jørgensen</string>
+    <string name="settings_about_website">Sito web</string>
+    <string name="settings_about_website_url">https://cajor.dk</string>
+</resources>

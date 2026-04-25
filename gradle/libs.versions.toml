@@ -1,0 +1,11 @@
+[versions]
+agp = "8.9.2"
+kotlin = "2.0.21"
+mmupnp = "3.1.6"
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+
+[libraries]
+mmupnp = { module = "net.mm2d.mmupnp:mmupnp", version.ref = "mmupnp" }
